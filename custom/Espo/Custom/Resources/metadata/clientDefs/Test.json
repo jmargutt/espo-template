@@ -1,0 +1,8 @@
+{
+    "controller": "controllers/record",
+    "boolFilterList": [
+        "onlyMy"
+    ],
+    "color": "#000000",
+    "iconClass": "fas fa-robot"
+}

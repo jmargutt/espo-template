@@ -1,0 +1,10 @@
+{
+    "scopeNames": {
+        "Message": "Message",
+        "Test": "Test"
+    },
+    "scopeNamesPlural": {
+        "Message": "Messages",
+        "Test": "Tests"
+    }
+}
