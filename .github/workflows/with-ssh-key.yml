@@ -1,4 +1,4 @@
-name: Continuous Integration and Delivery
+name: CICD with SSH key
 
 on:
   push:
