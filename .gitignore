@@ -6,7 +6,7 @@ html/*
 install/*
 public/*
 vendor/*
-*.php
-*.txt
-*.md
-*.htaccess
+/*.php
+/*.txt
+/*.md
+/*.htaccess
