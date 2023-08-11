@@ -1,5 +1,12 @@
-*
-!.gitignore
-!.github
-!custom/*
-!data/cache/application/*
+data/config-internal.php
+application/*
+bin/*
+client/*
+html/*
+install/*
+public/*
+vendor/*
+*.php
+*.txt
+*.md
+*.htaccess
